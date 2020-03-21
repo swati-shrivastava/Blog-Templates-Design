@@ -1,0 +1,11 @@
+.custom-font{
+  font-size: 30px;
+}
+
+.custom-button > .btn{
+  border-radius: 2rem;
+}
+
+.custom-footer{
+  background: #F0F0F0;
+}
